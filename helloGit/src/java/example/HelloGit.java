@@ -10,6 +10,7 @@ package example;
  */
 public class HelloGit {
     public static void main(String[] args) {
-        System.out.println("helloGitfkhjhgg");
+        System.out.println("hello");
+        System.out.println("hello");
     }
 }
